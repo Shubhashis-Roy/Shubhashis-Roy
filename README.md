@@ -1,11 +1,9 @@
 <div align="center">
-<img align="" alt="coding" width="74%" height="310px" src="https://camo.githubusercontent.com/79d8e2735b80065d88e9c38a68dabc41f4029b724e19b0292db991b5a0ff5f0d/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
+<img align="" alt="Profile" width="74%" height="310px" src="https://camo.githubusercontent.com/79d8e2735b80065d88e9c38a68dabc41f4029b724e19b0292db991b5a0ff5f0d/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
 
 <h1 align="">Hi there! 👋, I'm Shubhashis Roy</h1>
 </div>
 <h3 align="center">A passionate Front-end Developer, Open-Source enthusiast from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhashis-roy&label=Profile%20views&color=0e75b6&style=flat" alt="shubhashis-roy" /> </p>
 
@@ -14,6 +12,8 @@
 - 👨‍💻 All of my projects are available at [https://shubhashis-roy.github.io/My-portfolio/](https://shubhashis-roy.github.io/My-portfolio/)
 
 - 📫 How to reach me **shubhashisroy360@gmail.com**
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
