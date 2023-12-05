@@ -8,3 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhashis-roy&label=Profile%20views&color=0e75b6&style=flat" alt="shubhashis-roy" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
+
+<p><img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhashis-roy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shubhashis-roy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhashis-roy&show_icons=true&locale=en&theme=tokyonight" alt="shubhashis-roy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhashis-roy&&theme=tokyonight" alt="shubhashis-roy" /></p>
