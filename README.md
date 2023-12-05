@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-<p><img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhashis-roy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shubhashis-roy" /></p>
+<p><img align="left" height="195px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhashis-roy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shubhashis-roy" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhashis-roy&show_icons=true&locale=en&theme=tokyonight" alt="shubhashis-roy" /></p>  -->
 
