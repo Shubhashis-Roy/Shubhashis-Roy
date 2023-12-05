@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shubhashis-roy.github.io/My-portfolio/](https://shubhashis-roy.github.io/My-portfolio/)
 
-- 👨‍💻 My Resume at [https://shubhashis-roy.github.io/My-portfolio/cv/Resume_Subhashis.pdf] (https://shubhashis-roy.github.io/My-portfolio/cv/Resume_Subhashis.pdf)
+- 👨‍💻 My Resume at https://shubhashis-roy.github.io/My-portfolio/cv/Resume_Subhashis.pdf
 
 
 
