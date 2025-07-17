@@ -73,7 +73,7 @@
 
 </p>
 
-<h3 align="left">Others:</h3>
+<h3 align="left">Tools:</h3>
 <p align="left">
 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
