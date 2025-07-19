@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">A passionate Full-Stack Software Engineer, currently working at Appycodes, Siliguri, WB. An AI/ML & open-source enthusiast from India.</h3>
 
-- 👨‍💻 My Resume at [View_My_Resume](https://shubhashis-roy.github.io/My-portfolio/cv/Resume_Subhashis.pdf)
+- 👨‍💻 [View_My_Resume](https://shubhashis-roy.github.io/My-portfolio/cv/Resume_Subhashis.pdf)
 
 <h3 align="left">Languages:</h3>
 <p align="left">
